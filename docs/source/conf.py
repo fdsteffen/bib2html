@@ -3,7 +3,6 @@ import os
 
 sys.path.insert(0, os.path.abspath('../../'))
 
-
 project = 'bib2html'
 copyright = '2020, Fabio Steffen'
 author = 'Fabio Steffen'
