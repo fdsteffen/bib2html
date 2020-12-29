@@ -1,8 +1,10 @@
-# ![](logo.png)
+# ![](docs/source/_static/logo.png)
 
 ## Quickstart
 
-*Bib2HTML* is a Python script to convert bibtex files to an HTML-formatted reference list ordered by year and first author.
+*Bib2HTML* is a Python script to convert bibtex files to an HTML-formatted reference list ordered by year and first author. See an example [here](https://fdsteffen.github.io/bib2html)
+
+[](docs/source/_static/Watson.png)
 
 The bibtex entries should be formatted as follows:
 ```
