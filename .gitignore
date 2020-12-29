@@ -114,10 +114,4 @@ dmypy.json
 .pyre/
 
 # Sphinx documentation
-_static
-_build
-_templates
-_themes
-/docs/Makefile
-*.ai
-*.psd
+docs/_build
