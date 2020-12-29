@@ -4,7 +4,7 @@
 
 *Bib2HTML* is a Python script to convert bibtex files to an HTML-formatted reference list ordered by year and first author. See an example [here](https://fdsteffen.github.io/bib2html)
 
-[](docs/source/_static/Watson.png)
+<a href="https://fdsteffen.github.io/bib2html"><img src="docs/source/_static/Watson.png" width=500px></a>
 
 The bibtex entries should be formatted as follows:
 ```
