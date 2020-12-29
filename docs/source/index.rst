@@ -10,8 +10,5 @@ Citation list Demo
 
 :raw-html:`&rarr;` Click on any citation to show an abstract
 
-.. image:: examples/DNA.png
-    :height: 0px
-
 .. raw:: html
    :file: examples/publications.html
