@@ -8,7 +8,7 @@ Citation list Demo
 .. role::  raw-html(raw)
     :format: html
 
-:raw-html:`&rarr;` Click on any citation to show an abstract
+:raw-html:`&rarr;` Click on any citation to show an abstract...
 
 .. image:: examples/DNA.png
     :height: 0px
