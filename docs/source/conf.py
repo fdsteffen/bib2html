@@ -26,3 +26,7 @@ html_sidebars = {
         'about.html',
     ]
 }
+
+extensions = [    
+    'sphinx.ext.githubpages',
+]
